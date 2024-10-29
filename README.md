@@ -10,6 +10,7 @@
 - 🌱 **Currently Learning:** Edge Devices such as RaspberryPI and Jetson Series
 - 🤖 **Special Interests:** Software and Artificial Intelligence Development
 - 🔭 **Current Projects:** Road Pothole Detection & Productivity Monitoring
+- 📄 **Experiences:** (https://www.linkedin.com/in/ching-kai-xin-035451226)
 
 
 ---
