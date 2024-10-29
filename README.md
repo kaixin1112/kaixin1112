@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ching Kai Xin</h1>
-<h3 align="center">An Engineering Student from Universiti Teknologi Malaysia</h3>
+<h3 align="center">
+  An Engineering Student from Universiti Teknologi Malaysia 
+  <img src="https://pin.it/29vVkdCHF" width="50" align="right"/>
+</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on Road Pothole Detection & Productivity Monitoring
