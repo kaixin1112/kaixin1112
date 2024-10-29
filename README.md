@@ -40,7 +40,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kaixin1112&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaixin1112&theme=blue-green&hide_border=false" alt="GitHub Streak" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaixin1112&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaixin1112&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&langs_count=10&layout=compact" alt="Top Languages" height="150" />
 </div>
 
 ---
