@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ching Kai Xin</h1>
 <h3 align="center">
   An Engineering Student from Universiti Teknologi Malaysia 
-  <img src="https://pin.it/29vVkdCHF" width="50" align="right"/>
+  <img src="programmer.gif" width="50" align="right"/>
 </h3>
 
 # 💫 About Me:
