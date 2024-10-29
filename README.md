@@ -10,6 +10,7 @@
 - 🌱 **Currently Learning:** Edge Devices such as RaspberryPI and Jetson Series
 - 🤖 **Special Interests:** Automation, Artificial Intelligence, Machine Learning and Machine Vision
 - 🔭 **Current Projects:** Road Pothole Detection & Productivity Monitoring
+</p>
 
 ---
 
