@@ -6,8 +6,11 @@
 <img src="programmer.gif" width="250" align="right"/>
 
 ### 💫 About Me:
-- 🔭 I’m currently working on **Road Pothole Detection** & **Productivity Monitoring**
-- 🌟 I'm passionate about **Automation**, **Artificial Intelligence**, **Machine Learning**, and **Machine Vision**
+- 🎓 I’m an Engineering Student at **Universiti Teknologi Malaysia**
+- 📚 **Education:** Bachelor of Engineering in Electrical-Mechatronics
+- 🌱 **Currently Learning:** Advanced topics in **AI for Pothole Detection** and **Productivity Monitoring**
+- 🤖 **Special Interests:** Automation, Artificial Intelligence, Machine Learning, and Machine Vision
+- 🔭 **Current Projects:** Road Pothole Detection & Productivity Monitoring
 
 ---
 
