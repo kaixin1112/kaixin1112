@@ -8,9 +8,9 @@
 ### 💫 About Me:
 - 📚 **Education:** B.Eng in Electrical-Mechatronics, Universiti Teknologi Malaysia
 - 🌱 **Currently Learning:** Edge Devices such as RaspberryPI and Jetson Series
-- 🤖 **Special Interests:** Automation, Artificial Intelligence, Machine Learning and Machine Vision
+- 🤖 **Special Interests:** Software and Artificial Intelligence Development
 - 🔭 **Current Projects:** Road Pothole Detection & Productivity Monitoring
-</p>
+
 
 ---
 
