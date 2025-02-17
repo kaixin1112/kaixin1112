@@ -7,9 +7,9 @@
 
 ### 💫 About Me:
 - 📚 **Education:** B.Eng in Electrical-Mechatronics, Universiti Teknologi Malaysia
-- 🌱 **Currently Learning:** Edge Devices such as RaspberryPI and Jetson Series
+- 🌱 **Currently Learning:** Edge Devices (Jetson Series), Deep Learning
 - 🤖 **Special Interests:** Software and Artificial Intelligence Development
-- 🔭 **Current Projects:** Road Pothole Detection & Productivity Monitoring
+- 🔭 **Current Projects:** Road Pothole Detection
 - 📄 **Experiences:** https://www.linkedin.com/in/ching-kai-xin-035451226
 
 
